@@ -3,8 +3,6 @@ package com.ocarlsen.app;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import java.util.logging.Level;
-
 /**
  * Demo app showcasing JCL logging framework with SimpleLog.
  */
